@@ -1,4 +1,4 @@
-# collect-feedback
+# Collect Feedback
 
 Most major websites collect feedback from their customers in order to improve the quality of their services. The most common form of user feedback is ratings. For example, Amazon.com collects users’ ratings of books, Imdb.com collects movie ratings and Booking.com gathers users’ rating of hotels. 
 
